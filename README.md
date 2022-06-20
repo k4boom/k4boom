@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @k4boom, I am currently enjoying my time as a computer engineering student in ODTU.
-- 👀 I’m interested in basketball,drawing,airsoft and rally sports
+- 👀 I’m interested in game development and algorithm design
 - 🌱 I’m currently working at Jotform as a Software Support Engineer.
 - 📫 How to reach me: mfzenbilci@outlook.com 
 
